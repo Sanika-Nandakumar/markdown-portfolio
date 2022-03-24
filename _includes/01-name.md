@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hi I am Sanika Nandakumar
+## A student
+What is ur *name*? 
